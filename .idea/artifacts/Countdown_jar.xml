@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Countdown:jar">
+    <output-path>$PROJECT_DIR$/../../TestServr/plugins</output-path>
+    <root id="archive" name="Countdown.jar">
+      <element id="module-output" name="Countdown" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+name: Countdown
+version: '${project.version}'
+main: com.arg0nis.countdown.CountdownPlugin
+api-version: '1.20'
+authors: [Arg0nis]
+description: Countdown plugin with PlaceholderAPI
+commands:
+  countdown:
+    description: Start countdown
